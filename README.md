@@ -3,7 +3,7 @@
 Na linha em que há Environment.Exit(0); na ver1,
 o programa se encerra como o todo(Não dando espaço
 para a leitura da última linha), porém no caso
-da ver2, ainda há possibilidade do programa ler a última
+da ver2 ainda há possibilidade do programa ler a última
 linha de código que está fora de estrutura de 
 repetição "while".
 
